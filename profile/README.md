@@ -1,30 +1,29 @@
 # Ntontan Inc
 
-*Weaving Africa's educational future through innovation, inclusion, and interconnectedness.*
+Ntontan Inc is a technology-focused organization committed to transforming the educational experience across Africa. Inspired by the Akan word *"Ntontan"*—which means *web*—our vision is to create an interconnected educational ecosystem that enables access, collaboration, and quality learning opportunities for all students, regardless of location or background.
+
+## About
+
+Our goal is to design and implement a modern, scalable school management platform that meets the administrative, academic, and social needs of educational institutions. Ntontan will serve as the foundation for digital transformation within African schools, providing tools for administration, grading, attendance, communication, and beyond.
+
+The platform is being built from the ground up to accommodate future growth and integration, including AI-based student assistants, cross-school collaboration, and national-level educational data systems.
+
+## Vision
+
+To support the next generation of learners in Africa by building reliable, inclusive, and future-ready educational infrastructure.
 
 
-## 🌍 About Us
+## Status
 
-**Ntontan Inc** is a technology-driven initiative dedicated to revolutionizing African education. Rooted in the Akan word *"Ntontan"* meaning *web*, we’re building a modern, scalable ecosystem for schools that connects students, educators, and institutions across the continent.
+This project is currently in early development. The system is being carefully architected to support long-term growth and wide-scale deployment, starting with pilot institutions and expanding to broader educational networks.
 
-From school management to real-time collaboration and digital classrooms, Ntontan is shaping the future of learning — one connection at a time.
+## Contact
 
+For collaboration, partnerships, or inquiries:
 
-## 🧠 Our Vision
+- Email: `hello.ntontan@gmail.com`
+- GitHub: [github.com/ntontan](https://github.com/ntontan)
 
-To empower every African learner — regardless of location or background — with the tools, access, and systems necessary to thrive in a modern educational landscape.
+---
 
-
-## 🛠️ Work in Progress
-
-Ntontan is in active development. We're building in the open and welcome collaboration from developers, educators, and visionaries who share our mission.
-
-
-
-## ✨ Credits
-
-Inspired by African knowledge systems, mythology, and the desire to decentralize quality education.  
-Special thanks to the community and contributors shaping the Ntontan vision.
-
-
-> © 2025 Ntontan Inc — All rights reserved.
+© 2025 Ntontan Inc. All rights reserved.
