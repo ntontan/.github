@@ -10,8 +10,6 @@ To create a future-ready, inclusive, and connected learning ecosystem — empowe
 
 ## Vision
 
-> “Built for connection. Engineered for scale. Empowering every school, everywhere.”
-
 We’re laying the foundation for a continent-wide educational ecosystem — one that brings schools together, enables cross-institution collaboration, and gives every learner a seat at the table of progress.
 
 
