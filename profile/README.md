@@ -2,7 +2,6 @@
 
 *Weaving Africa's educational future through innovation, inclusion, and interconnectedness.*
 
----
 
 ## 🌍 About Us
 
@@ -10,7 +9,6 @@
 
 From school management to real-time collaboration and digital classrooms, Ntontan is shaping the future of learning — one connection at a time.
 
----
 
 ## 🧠 Our Vision
 
@@ -21,21 +19,12 @@ To empower every African learner — regardless of location or background — wi
 
 Ntontan is in active development. We're building in the open and welcome collaboration from developers, educators, and visionaries who share our mission.
 
----
 
-## 🤝 Join Us
-
-
-📬 Email us at: **ntontan.io@gmail.com**  
-<!--🌐 Website (coming soon): [www.ntontan.org](http://www.ntontan.org)
--->
----
 
 ## ✨ Credits
 
 Inspired by African knowledge systems, mythology, and the desire to decentralize quality education.  
 Special thanks to the community and contributors shaping the Ntontan vision.
 
----
 
 > © 2025 Ntontan Inc — All rights reserved.
