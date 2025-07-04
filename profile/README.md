@@ -10,12 +10,6 @@ To create a future-ready, inclusive, and connected learning ecosystem — empowe
 
 
 
-## Our Philosophy
-
-We believe education should be as connected as the world students live in. Ntontan is rooted in the idea that access, not privilege, should define the quality of learning. From the most remote village to the heart of a city, every student deserves the tools to thrive.
-
-
-
 ## Vision
 
 > “Built for connection. Engineered for scale. Empowering every school, everywhere.”
