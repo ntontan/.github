@@ -8,8 +8,6 @@
 
 To create a future-ready, inclusive, and connected learning ecosystem — empowering schools of every size with modern tools, collaborative learning, and data-driven education.
 
-> “Where school meets the future — together.”
-
 
 
 ## Our Philosophy
@@ -28,8 +26,8 @@ We’re laying the foundation for a continent-wide educational ecosystem — one
 
 ## The Ntontan Principle
 
-> **“Ntontan — The Web Where Learning Lives.”**  
-> **“If every student can access WhatsApp, they can access education.”**
+> *“Ntontan — The Web Where Learning Lives.”*
+> *“If every student can access WhatsApp, they can access education.”*
 
 Education doesn’t have to be confined by walls or limited by resources. With Ntontan, we aim to bridge the gaps between schools, classrooms, and learners by providing a network where content, communication, and community converge.
 
